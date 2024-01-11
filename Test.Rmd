@@ -6,12 +6,12 @@ output: html_notebook
 # Primer código
 
 ```{r}
-x = 10
-y = 20
-z = x + y
+a = 10
+b = 20
+c = a + b
 ```
 
 ```{r}
-z
+c
 ```
 
